@@ -1,0 +1,14 @@
+%net
+resnet101
+%layer
+avg_pool
+%lev_bright
+[0.05:0.05:0.1]
+%perc_bleach
+[0.50:0.1:0.70]
+%th_fluo
+[0.2:0.1:0.4]
+%th_DP
+0.6
+%th_SENS
+0.1
