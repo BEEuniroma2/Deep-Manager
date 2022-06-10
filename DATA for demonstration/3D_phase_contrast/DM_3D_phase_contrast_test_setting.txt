@@ -1,0 +1,16 @@
+%net
+resnet101
+%layer
+avg_pool
+%lev_bright
+[0:0.1:0.3]
+%lev_focus
+[10:10:30]
+%lambda_pattern
+[0.005:0.005:0.05]
+%lev_rot
+[-20:10:20]
+%th_DP
+0.7
+%th_SENS
+0.1
