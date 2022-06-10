@@ -1,3 +1,19 @@
+"""
+@author: Michele D'Orazio
+———————————————————————————
+Michele D'Orazio, PhD
+Dept. Electronic Engineering
+
+Interdisciplinary Center of Advanced Study of 
+Organ-on-Chip and Lab-on-Chip Applications (IC-LOC)
+
+University of Rome Tor Vergata
+Via del politecnico 1, 00133 Roma, Italy
+contact: michele.d.orazio@uniroma2.it
+tel: +390672597347
+
+"""
+
 # import necessary packages
 import tensorflow.keras as keras
 import tensorflow as tf
