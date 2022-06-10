@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 12 11:46:12 2021
-
 @author: Michele D'Orazio
 ———————————————————————————
 Michele D'Orazio, PhD
