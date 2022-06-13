@@ -1167,7 +1167,7 @@ class GUI:
         # plot selected features in cyan
         plt.plot(b[id1],a[id1],'sc',markerfacecolor='c',label='Selected features')
         # plot features with too high Sensitivity in blue
-        plt.plot(b[id2],a[id2],'sb',markerfacecolor='b',label='Too high sesitivity')
+        plt.plot(b[id2],a[id2],'sb',markerfacecolor='b',label='Too high sensitivity')
         # plot features with too low DP
         plt.plot(b[id3],a[id3],'sg',markerfacecolor='g',label='Too low DP in the modified dataset')
         # plot axis names
