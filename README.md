@@ -14,7 +14,7 @@ In order to properly install the required settings we suggest following these st
 After installed anaconda create a new environment.
 - Open anaconda prompt
 - write down: conda create -n "Deep_Manager_Environment" python=3.8.8
-- (if you already created this environment access it via: conda activate "Deep_Manager_Environment"
+- if you already created this environment access it via: conda activate "Deep_Manager_Environment"
 - Change directory to the path containing this read_me.txt file via: cd path_to_this_folder
 - write down: pip install -r requirements.txt
 
