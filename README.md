@@ -37,12 +37,12 @@ a window will be opened asking you to load a setting file.
 You can find a typical setting file for each modality inside the folder Corresponding to
 the chosen modality inside DATA for demonstration. The file is in txt format
 Chosen the file the parameters can be modified clicking the "Change provided settings" button: another window will be
-opened. You can change interactively all the parameters (If you want to use Transfer Learning features be sure to select an existing network and corresponding layer name).
+opened. You can change interactively all the parameters (If you want to use Transfer Learning features be sure to select an existing network and corresponding layer name). Thresholds used for Discriminative Power (DP) and Sensitivity (SENS) strongly depend on the application: hence you can tune this hyperparameters to obtain a non-empty and small set of features (usually from 10 to 100). Typical values for DP and SENS threshold are 0.6-0.7, and 0.1-0.2, respectively.
 Once you are satisfied you can apply the desired changes clicking the Update settings button.
 
 Click the select path to data button. The selected directory must contain 2 folders each of which containing images
 from one of the two classes. We provided an example for each modality inside the "DATA for demonstration" folder. 
-In our example we must select the "2D_brightfield" folder.
+In our example we must select the "IM-ACQ-1-2D_brightfield" folder.
 
 After you selected modality, setting file and path to data a combobox will be enabled
 allowing visualization of the alterations that will be performed with the provided parameters.
