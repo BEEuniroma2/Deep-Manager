@@ -94,15 +94,3 @@ Clicking it you will save all the results.
 The "Reset GUI" button allows you to restart the GUI
 
 The BEE button on the bottom right links you to the Bioinspired Electronic Engineering group web page.
-
-
-
- 
-
-
-
-
-
-
-
-
