@@ -11,7 +11,7 @@ In order to properly install the required settings we suggest following these st
 
 - download and install git software at https://git-scm.com/downloads
 
-After installed anaconda and git create a new conda environment.
+After installed anaconda and git follow these steps to download the code and install the necessary libraries
 - Open anaconda prompt
 - to download the source code write down: git clone https://github.com/BEEuniroma2/Deep-Manager.git
 in this way the entire github repository will be cloned to the specified path on your pc usually on the path "C:\Users\user_name\Deep-Manager"
