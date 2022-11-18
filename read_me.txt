@@ -7,13 +7,17 @@ Requirements
 In order to properly install the required settings we suggest following these steps:
 - download and install anaconda at https://www.anaconda.com/products/individual
 
-- download the source code of this Toolbox
+- download and install git software at https://git-scm.com/downloads
 
 After installed anaconda create a new environment.
 - Open anaconda prompt
+- to download the source code write down: git clone https://github.com/BEEuniroma2/Deep-Manager.git
+in this way the entire github repository will be cloned to the specified path on your pc usually on the path "C:\Users\user_name\Deep-Manager"
+the user_name folder name depends on the user name of the pc in which you installed the package
+
 - write down: conda create -n "Deep_Manager_Environment" python=3.8.8
-- (if you already created this environment access it via: conda activate "Deep_Manager_Environment"
-- Change directory to the path containing this read_me.txt file via: cd path_to_this_folder
+- if you already created this environment access it via: conda activate "Deep_Manager_Environment"
+- Change directory to the path containing this read_me.txt file via: cd "C:\Users\user_name\Deep-Manager"
 - write down: pip install -r requirements.txt
 
 
