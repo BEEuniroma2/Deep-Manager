@@ -1,5 +1,5 @@
 # Deep-Manager
-This repository contains the code referred to paper available at https://www.nature.com/articles/s42003-023-04585-9 
+This repository contains the code referred to the paper available at https://www.nature.com/articles/s42003-023-04585-9 
 
 This is a guide to set up your envirnoment and use the Deep Manager Toolbox
 
