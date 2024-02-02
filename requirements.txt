@@ -3,7 +3,7 @@ numpy==1.18.5
 tk
 scipy==1.4.1
 matplotlib==3.3.4
-scikit-learn==1.2.2
+scikit-learn==0.24.2
 imutils==0.5.4
 PySimpleGUI==4.47.0
 opencv-python==4.5.2.52
